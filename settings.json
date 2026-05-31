@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "iasisalwaysonline",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "s1-fusionsmp.aternos.me",
+    "port": 41800,
     "version": "",
     "try-creative": false
   },
