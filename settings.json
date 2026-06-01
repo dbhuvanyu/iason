@@ -1,14 +1,14 @@
 {
   "name": "iasisalwaysonline",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AFKBottt",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "s1-fusionsmp.aternos.me",
     "port": 41800,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
